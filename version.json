@@ -1,5 +1,7 @@
 {
   "version": "1.0.0",
-  "url": "https://github.com/nisar7631/myapp-updates/releases/latest",
-  "notes": "Fixed Some Issues!"
+  "url": "https://github.com/nisar7631/myapp-updates/releases/download/v1.0.0/CDR_Converter.exe",
+  "sha256": "sha256:75d0332bdb85c1bdfbef60681f872bc1cbcd894b0c74eeb06d5298ecd060a94b",
+  "notes": "Bug Fixes & Improvements",
+  "page": "https://github.com/nisar7631/myapp-updates/releases/latest"
 }
