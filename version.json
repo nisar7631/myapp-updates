@@ -1,7 +1,7 @@
 {
   "version": "1.0.1",
-  "url": "https://github.com/nisar7631/myapp-updates/releases/download/v1.0.0/CDR_Converter_Setup_1.0.0.exe",
-  "sha256": "cf58bdb40da5c7ac3864672d979c5d4930acc98ce2df414d5520026699b20a4c",
-  "notes": "Bug Fixes & Performance Improvements",
+  "url": "https://github.com/nisar7631/myapp-updates/releases/download/v1.0.0/CDR_Converter_Setup_1.0.1.exe",
+  "sha256": "501dc123bec7fd6f25ddd11b508f02fb93fbdc63d2826abe906fe7145d9572bc",
+  "notes": "Jazz Dated Issued Fixed",
   "page": "https://github.com/nisar7631/myapp-updates/releases/latest"
 }
