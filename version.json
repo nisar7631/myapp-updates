@@ -1,7 +1,7 @@
 {
   "version": "1.0.9",
   "url": "https://github.com/nisar7631/myapp-updates/releases/download/v1.0.9/CDR_Converter_Setup_1.0.9.exe",
-  "sha256": "6fbc966c3f165d006e479b6d117e48fc33f1585c2d924f05d93d0166d8c515f1",
-  "notes": "Telenor Date Pattern Issued Fixed!",
-  "sig": "xLyuELSaeg7jrDspLIrShh9rqHaAbsawFbjuVj3uJ9jTm_Wo64OkUn0dbKSrGTsDUalK0gR0V1raXbRtkEQwpw"
+  "sha256": "83ccdef824b1620be9939ba324503761f3f370fa8600fcec02678484b929781b",
+  "notes": "Telenor and Ufone CDRs Pattern Added!",
+  "sig": "q5JBlfYZeFq-2133SX7qD8oLUZfi33uACIcZr7PSW7XFXELr6id-TefiucpwKJbr2av5MgUiZy8mmztDkn0BKw"
 }
