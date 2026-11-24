@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9",
-  "url": "https://github.com/nisar7631/myapp-updates/releases/download/v1.0.9/CDR_Converter_Setup_1.0.9.exe",
-  "sha256": "83ccdef824b1620be9939ba324503761f3f370fa8600fcec02678484b929781b",
-  "notes": "Telenor and Ufone CDRs Pattern Added!",
-  "sig": "q5JBlfYZeFq-2133SX7qD8oLUZfi33uACIcZr7PSW7XFXELr6id-TefiucpwKJbr2av5MgUiZy8mmztDkn0BKw"
+  "version": "1.1.0",
+  "url": "https://github.com/nisar7631/myapp-updates/releases/download/v1.1.0/CDR_Converter_Setup_1.1.0.exe",
+  "sha256": "e480626b402c9c4481f8d2ff6b5eaace36566a935b53c896344b7cbdbd08e8f4",
+  "notes": "Bugs Fixed",
+  "sig": "8rA8dWBY9qEnntfG648qEVKGVw7wMEuqd5r5tLbgkw0KjvwksC-4fchfPg2UZoU8w_1IxPKHQ_buVnHyvm1CKA"
 }
